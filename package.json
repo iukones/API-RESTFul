@@ -10,8 +10,11 @@
   "author": "Israel Martinez (www.iukones.com)",
   "license": "MIT",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.17.1",
+    "crypto": "0.0.3",
     "express": "^4.15.2",
+    "jwt-simple": "^0.5.1",
     "mongoose": "^4.9.2"
   },
   "devDependencies": {
